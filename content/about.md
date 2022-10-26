@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-`Burnaby, BC` `moonaung@linux.com` `(604) 345-1337` 
+`Burnaby, BC` `moonaung@linux.com` 
 
 [Linkedin](https://www.linkedin.com/in/juelimoneaung) |  [Github](https://github.com)
 
