@@ -1,4 +1,4 @@
-baseURL = "http://resume-3kc.s3-website.ca-central-1.amazonaws.com"
+baseURL = "https://www.3kc.dev"
 title = "3KC"
 theme = "hugo-coder"
 languageCode = "en"
