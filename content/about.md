@@ -74,8 +74,6 @@ Also with a short description.
 
 ##### 📘 CERTIFICATIONS AND ACHIEVEMENTS
 ----------------------------------------------------------
+- [Certified Terraform Associate (002)](https://www.credly.com/badges/a23504e5-f762-439c-9a61-4671d1e86d12)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/bfbc3eb8-7c71-4ac2-b268-40dc57288972)
 - [Linux Foundation Certified System Administrator (LFCS)](https://www.credly.com/badges/80b3a52f-4da7-42a6-8035-62f3691b9c3d)
-
-
-
