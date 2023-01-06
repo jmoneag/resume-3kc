@@ -140,4 +140,4 @@ order = [".jpg$", ".gif$"]
 
 [[deployment.targets]]
 name = "3kc"
-URL = "s3://3kc-dev?region=us-east-1"
+URL = "s3://3kc-dev-terraform-s3?region=us-east-1"

@@ -7,7 +7,7 @@ draft: false
 
 `Burnaby, BC` `moonaung@linux.com` 
 
-[Linkedin](https://www.linkedin.com/in/juelimoneaung) |  [Github](https://github.com)
+[Linkedin](https://www.linkedin.com/in/juelimoneaung) |  [Github](https://github.com/jmoneag)
 
 
 
